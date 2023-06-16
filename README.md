@@ -1,7 +1,6 @@
 # Truth or Dare
 
-- **Original Version : https://github.com/fari-zma/TruthDare** <br/>
-- **Thanks to https://github.com/fari-zma**
-- This original app was modified for the purpose of relevance of project demonstration.
-- This modified version of Truth or Dare project is made by Samarth (1VA19IS044) and Nisarga (1VA19IS036). 
+Truth or Dare game android app, which is built using Java and Android Studio. <br/>
+ 
 - This Android Project reqiures Gradle version 5.6.4. 
+- - If any queries , contact through this <a href='http://samarth-portfolio-website.000webhostapp.com/#contact' target='_blank' rel="noreopener">website.</a>
